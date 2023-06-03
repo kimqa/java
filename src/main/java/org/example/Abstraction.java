@@ -20,7 +20,6 @@ class Circle extends Abstraction {
         this.radius = radius;
     }
 
-    @Override
     public double getArea() {
         return Math.PI * radius * radius;
     }
