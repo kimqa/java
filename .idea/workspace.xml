@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed9c4ae4-e165-4c83-b04b-128bcf843682" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfac/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfac/Interface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfac/Interface2Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfac/InterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfac/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,26 +63,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainOver">
+  <component name="RunManager" selected="Application.interfac.Main">
     <configuration name="InheritanceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.InheritanceExample" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="interfac.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,7 +82,7 @@
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="interfac.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,7 +95,7 @@
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="interfac.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,7 +108,20 @@
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="interfac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="interfac.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfac.Main" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfac.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.interfac.Main" />
         <item itemvalue="Application.MainOver" />
         <item itemvalue="Application.MainAbs" />
         <item itemvalue="Application.StartMyCar" />
         <item itemvalue="Application.InheritanceExample" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
